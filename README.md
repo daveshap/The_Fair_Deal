@@ -1,6 +1,6 @@
 # The Fair Deal
 
-Technology (AI, automation) is disruptive the balance of power in society. We need to negotiate a new social contract. I call it The Fair Deal. (This is a work in progress, presently in brainstorming/spitballing phase)
+The Fair Deal represents a bold and comprehensive renegotiation of the social contract for the 21st century, addressing the profound challenges posed by technological advancements, economic inequality, and democratic disempowerment. It seeks to rebalance the power dynamics between citizens, businesses, government, and financial institutions, emphasizing the need for a more equitable distribution of wealth, resources, and influence. The Fair Deal envisions a society where democratic participation is strengthened, taxation is redistributive, and collective ownership models are promoted, ensuring that the benefits of technological progress are shared by all. It lays the foundation for a future where power is balanced, prosperity is shared, and the dignity of every individual is upheld, fostering a more just, empowered, and sustainable society.
 
 ## Problem Statement: Addressing Power Imbalances in the Modern Era
 
