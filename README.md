@@ -152,6 +152,7 @@ The Fair Deal recognizes that the erosion of labor power in the new social contr
    - Supermajority Confirmation: Consider requiring a supermajority vote in the Senate to confirm Supreme Court justices, fostering greater consensus and reducing the influence of partisan politics in the confirmation process.
    - Expand number of Justices to reduce power of any one appointment
    - Institute age limits for Justices to maintain vigor and rotate perspectives
+   - Popular vote for Supreme Court Justices: Consider creating a popular vote method of selecting SCOTUS Justices, perhaps one per state.
 
 3. Legislative Reforms:
    - Expand House to increase proportional representation
