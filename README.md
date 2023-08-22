@@ -29,7 +29,7 @@ Through rigorous research and distilling of multiple frameworks and perspectives
 2. **Love and Belonging:** A recurring theme that highlights connection and relationships.
 3. **Autonomy and Freedom:** A focus on individual choice, control, and the ability to pursue one's path.
 4. **Growth and Self-Actualization:** Concerns personal development, competence, and reaching one's potential.
-5. **Well-Being:** Encompasses mental and physical health, relaxation, and overall wellness.
+5. **Health and Well-Being:** Encompasses mental and physical health, relaxation, and overall wellness.
 
 This is a "needs-based" model of humanity, rather than a "human nature" based model. It's not meant to supplant Adam Smith's theory, but rather to build upon it and add more nuance. In other words, you can look at these universal human needs as the underlying drives, motivations, or desires that humans try to fulfill. We make no comment on whether or not humans are intrinsically self-serving, altruistic, or any spectrum between the two. We merely wish to identify and articulate universally observable human needs. 
 
