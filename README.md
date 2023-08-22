@@ -1,5 +1,7 @@
 # The Fair Deal
 
+> **"Globally align the interests of people, business, and government"**
+
 ## What is The Fair Deal?
 
 The Fair Deal is primarily a *new social contract* with these characteristics:
@@ -31,6 +33,52 @@ Through rigorous research and distilling of multiple frameworks and perspectives
 
 This is a "needs-based" model of humanity, rather than a "human nature" based model. It's not meant to supplant Adam Smith's theory, but rather to build upon it and add more nuance. In other words, you can look at these universal human needs as the underlying drives, motivations, or desires that humans try to fulfill. We make no comment on whether or not humans are intrinsically self-serving, altruistic, or any spectrum between the two. We merely wish to identify and articulate universally observable human needs. 
 
+## Racing Analogy
+
+This analogy can be useful for messaging, clarity, and constructing simple, universal narratives. You need four things to win a race:
+
+1. **Steering:** Avoid obstacles and collisions
+2. **Braking:** Slow down to maintain control
+3. **Acceleration:** Pick up the pace to get to the finish
+4. **Victory condition:** Where are you going towards
+
+Racing without all of these is stupid, and you will either die or lose.
+
+### Victory Condition: Utopia
+
+Can we all agree that we all want:
+
+1. High standard of living?
+2. High social mobility?
+3. High individual liberty?
+
+If so, this is the endzone, the checkered flag, the destination.  Can we agree that this is a good objective for all humanity? For the entire globe? If so, this can help solve coordination failures.
+
+### Steering: Oversight
+
+Guiding our global journey requires:
+1. **Direction:** Knowing which paths align with our shared objectives
+2. **Avoidance:** Steering around obstacles like corruption, inequality, catastrophe, and ethical lapses
+3. **Alignment:** Keeping interests of people, businesses, and governments in harmony. Look for the win-win-win
+Steering without purpose or precision is wandering. Lack of proper oversight can lead us astray or into collisions with unintended consequences.
+
+### Braking: Regulation
+
+Controlling our pace and motion needs:
+1. **Balance:** Not too slow to hinder progress, nor too fast to lose control
+2. **Safety:** Implementing measures that protect society, economy, and environment
+3. **Responsiveness:** Adapting to emerging challenges and opportunities in the global landscape
+Racing without brakes is reckless. Proper regulation ensures we don’t crash, but that we can still navigate the twists and turns towards our utopian goal.
+
+### Acceleration: Investment
+
+Fueling our progress to the finish requires:
+1. **Resources:** Investing in technology, research, and infrastructure
+2. **Innovation:** Supporting implementation, development, and entrepreneurship
+3. **Redistribution:** Ensuring all benefit from advancements to crank the economy red hot
+Accelerating without consideration is wasteful. Strategic investment propels us forward, powering the vehicle that drives us towards a globally aligned future.
+
+
 ## General Strategy
 
 These four strategic principles can allow anyone to participate in spreading the ideas of the New Deal. Like any intellectual, political, or philosophical movement, it will take time. These are four strategic behaviors that anyone can do, starting right now.
@@ -39,6 +87,7 @@ These four strategic principles can allow anyone to participate in spreading the
 2. **Research and Messaging:** Encourage academics, politicians, and communicators to dissect, discuss, and name these ideas, creating a robust intellectual framework. Teach it, understand it.
 3. **Incorporate into Culture:** Urge creators, influencers, and storytellers to weave these principles into their works and missions, recognizing the power of timely ideas and compelling stories.
 4. **Spread and Embed:** Allow the idea to resonate, spread, and become part of the zeitgeist. Naturally, champions will emerge, and it will influence policy and societal norms.
+5. **Launch Campaigns:** Embed these ideals and objectives into your messaging, political campaigns, corporate culture, and social media platform.
 
 ## Cautions
 
