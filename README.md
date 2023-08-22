@@ -89,6 +89,48 @@ These four strategic principles can allow anyone to participate in spreading the
 4. **Spread and Embed:** Allow the idea to resonate, spread, and become part of the zeitgeist. Naturally, champions will emerge, and it will influence policy and societal norms.
 5. **Launch Campaigns:** Embed these ideals and objectives into your messaging, political campaigns, corporate culture, and social media platform.
 
+## Policy Milestones
+
+These milestones and strategic objectives can be implemented broadly within and between nations to help drive the conversation in the right direction. While AI was the catalyst for the Fair Deal, this package must be all-encompassing. In other words, AI and technology represents a Black Swan event that could either become a watershed moment where we pivot and establish new paradigms of economics and governance or we continue on the path we're on. 
+
+While these various policy milestones are expansive, they are by no means exhaustive. These lists are provided primarily as food for thought.
+
+### Steering
+
+1. **Implement Global Transparency Standards:** Create and enforce international standards for transparent reporting in AI development and governance across all participating nations.
+2. **Sign an International Treaty on AI Ethics:** Develop and ratify a binding international treaty that sets clear ethical guidelines for AI research, development, and deployment.
+3. **Establish Multinational Oversight Bodies for AI:** Form international organizations with representatives from various nations to oversee, review, and regulate AI activities and developments.
+4. **Create Cross-Border Anti-Corruption Measures:** Implement shared anti-corruption measures that focus specifically on preventing regulatory capture and undue influence in the AI industry.
+5. **Launch Global Whistleblower Protection Programs:** Initiate international programs to protect those who expose unethical practices within AI development and governance.
+6. **Inaugurate International AI Research Centers:** Open international research centers dedicated to ethical AI, funded and supported by multiple nations, fostering collaboration and shared knowledge.
+
+### Braking
+
+1. **Enact Global Financial Stability Regulations:** Implement international regulations to monitor and prevent potential financial crises, ensuring stability across markets.
+2. **Sign an International Data Privacy Treaty:** Develop and ratify a binding treaty that sets universal standards for data privacy and protection across participating nations.
+3. **Create Multinational Disaster Response Protocols:** Establish shared response strategies for global crises (environmental, health, technological), ensuring coordinated action.
+4. **Regulate Cross-Border AI Deployment:** Implement standardized regulations controlling how AI technologies are deployed and operated across international boundaries.
+5. **Formulate Global Environmental Sustainability Standards:** Develop and enforce shared international standards for environmental protection, focusing on sustainable technology practices.
+6. **Establish International Human Rights Protocols in AI:** Create binding agreements that enforce the application of universal human rights principles in AI development and utilization.
+
+### Acceleration
+
+1. **Launch Global Innovation Hubs:** Inaugurate international centers for research, development, and innovation in AI, supported by collaborative funding from various nations.
+2. **Implement a Universal Education Platform:** Establish a globally accessible online education platform, focusing on AI and technology skills, to promote equal opportunity and workforce readiness.
+3. **Create an International Sustainable Technology Fund:** Develop a shared investment fund to support research, innovation, and deployment of environmentally sustainable technologies.
+4. **Sign Cross-Border Entrepreneurship Agreements:** Facilitate international agreements to support and fund collaborative entrepreneurship in the AI and technology sectors.
+5. **Invest in Global Health Technology Research:** Fund international research collaborations focused on leveraging AI for global health improvements and accessibility.
+6. **Establish International Infrastructure Development Programs:** Initiate multinational projects to enhance digital infrastructure, enabling equitable access to AI-driven services and technologies.
+
+### Victory
+
+1. **Achieve Universal Healthcare Access:** Successfully implement global strategies that ensure healthcare accessibility to all individuals, regardless of location or income.
+2. **Guarantee Basic Needs for All People:** Enact international agreements and programs that guarantee every person access to essential needs such as food, clothing, housing, and clean water.
+3. **Establish Global Social Mobility Initiatives:** Create and enact international programs that demonstrably enhance opportunities for upward social mobility across all nations.
+4. **Implement Global Internet Freedom Policies:** Enforce and uphold international policies that guarantee unrestricted access to the internet, protecting freedom of expression online.
+5. **Coordinate Comprehensive Climate Change Solutions:** Unite countries in achieving measurable success in climate change mitigation and adaptation through shared policies and practices.
+6. **Ensure International AI Safety Compliance:** Reach global consensus and adherence to safety standards in AI development, deployment, and utilization.
+
 ## Cautions
 
 Political and social ideologies can be extremely harmful when misapplied or misunderstood. 
